@@ -11,4 +11,4 @@ Este curso se concentra na utilização da linguagem de programação Python com
 
 ### Projetos:
 
-* **Analisando os Dados do Airbnb:** https://...
+* [Analisando os Dados do Airbnb:](https://github.com/titocampos/data_science_na_pratica/blob/master/Analisando%20os%20Dados%20do%20Airbnb.ipynb)
